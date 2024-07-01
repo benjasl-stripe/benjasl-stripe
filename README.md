@@ -2,7 +2,7 @@
 #### I am a Staff Developer Advocate at Stripe
 Formerly a Principal Developer advocate for serverless at AWS
 
-Skills: Serverless / AWS / nodejs / Lambda
+Skills: Serverless / AWS / nodejs / Lambda / PHP
 
 - 🔭 I’m currently working on helping developers to integrate with Stripe. 
 - 👯 I’m looking to collaborate on Improving the Stripe developer experience 
